@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Sistema de Chamado
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O site do Projeto de Chamados [https://sistema-js.netlify.app/).
 
-## Available Scripts
+## Feito com React.JS, JavaScript, Route, Routes, Routes Privadas,useState, useEffect, useContext, FireBase, Banco de Dados NoSQL, Responsivo, Bibliotecas, Build, Deploy, CSS3 e HTML5
 
 In the project directory, you can run:
 
