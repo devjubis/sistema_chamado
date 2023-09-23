@@ -7,7 +7,8 @@ O site do Projeto de Chamados [https://sistema-js.netlify.app/).
 O projeto:
 
 ### `Home no notebook ⬇️`
-![NovoChamado_mac](https://github.com/devjubis/sistema_chamado/assets/110790833/0fd0e706-13f6-4a76-bb26-91540c1bd6df)
+![home_not](https://github.com/devjubis/sistema_chamado/assets/110790833/967967ad-ee88-41d1-a951-4b90b4438df0)
+
 
 ### `Home no tablet ⬇️`
 ![Atendimentos_tablet](https://github.com/devjubis/sistema_chamado/assets/110790833/eec19430-88dd-4462-bf8c-a1179292f646)
