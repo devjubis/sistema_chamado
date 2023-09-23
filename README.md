@@ -2,69 +2,69 @@
 
 O site do Projeto de Chamados [https://sistema-js.netlify.app/).
 
-## Feito com React.JS, JavaScript, Route, Routes, Routes Privadas,useState, useEffect, useContext, FireBase, Banco de Dados NoSQL, Responsivo, Bibliotecas, Build, Deploy, CSS3 e HTML5
+## Feito com React.JS, JavaScript, Route, Routes, Routes Privadas, useState, useEffect, useContext, FireBase, Banco de Dados NoSQL, Responsivo, Bibliotecas, Build, Deploy, CSS3 e HTML5
 
-In the project directory, you can run:
+O projeto:
 
-### `npm start`
+### `Home no notebook ⬇️`
+![NovoChamado_mac](https://github.com/devjubis/sistema_chamado/assets/110790833/0fd0e706-13f6-4a76-bb26-91540c1bd6df)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### `Home no tablet ⬇️`
+![Atendimentos_tablet](https://github.com/devjubis/sistema_chamado/assets/110790833/eec19430-88dd-4462-bf8c-a1179292f646)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `Home no celular ⬇️`
+![NovoChamado_mobile](https://github.com/devjubis/sistema_chamado/assets/110790833/15f4a156-9592-423e-9aa1-65987ae645f3)
 
-### `npm test`
+### `Opção quando não tem Chamado ⬇️`
+![SemChamado_tablet](https://github.com/devjubis/sistema_chamado/assets/110790833/8ff1ab80-3f41-42f9-8861-6dde4777be17)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `No botão Novo Chamado entra na página para o cliente realizar um chamado no sistema ⬇️`
+![Novo_Chamado_Tablet](https://github.com/devjubis/sistema_chamado/assets/110790833/2908e38c-a245-4352-bc37-65f4f012ce0d)
 
-### `npm run build`
+### `No botão Novo Chamado entra na página para o cliente realizar um chamado no sistema "versão responsiva no celular" ⬇️`
+![Chamado_Cel](https://github.com/devjubis/sistema_chamado/assets/110790833/bdf79c54-92a2-4ac0-8dcc-cf934f0ec45c)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### `Quando clicado no botão laranja, entra a opção de Editar Chamado ⬇️`
+![Editar_Chamado](https://github.com/devjubis/sistema_chamado/assets/110790833/9d019b71-78b4-494a-a563-2448269c8d10)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `Quando clicado no botão azul, entra a opção detalhes do chamado ⬇️`
+![modal_not](https://github.com/devjubis/sistema_chamado/assets/110790833/bae20e37-ef5b-4451-aa96-009adb702539)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `Quando clicado no botão azul, entra a opção detalhes do chamado "versão responsiva no tablet" ⬇️`
+![Modal_tablet](https://github.com/devjubis/sistema_chamado/assets/110790833/10051d8e-6df2-4fa4-b385-8d9f7394ba11)
 
-### `npm run eject`
+### `Na aba Clientes faz o cadastro das empresas ⬇️`
+![clientes_not](https://github.com/devjubis/sistema_chamado/assets/110790833/11a34d26-66f9-474f-ab55-ccc3248a9e71)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### `Na aba Clientes faz o cadastro das empresas "versão responsiva no celular" ⬇️`
+![clientes_mobile](https://github.com/devjubis/sistema_chamado/assets/110790833/6ca2ed01-1039-4b63-bc18-88e67e8d626f)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### `Na aba Perfil ⬇️`
+![perfil_not](https://github.com/devjubis/sistema_chamado/assets/110790833/ee9d6c93-3338-42ac-9e8a-3a46d8b7ecaf)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### `Na aba Perfil  "versão responsiva no tablet" ⬇️`
+![perfil_tablet](https://github.com/devjubis/sistema_chamado/assets/110790833/78f81523-521f-4194-97be-6c53b3677292)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
